@@ -13,10 +13,12 @@ Open Source Flutter Presence App integrated with geolocation (GPS) that can help
 
 **Step 1:**
 
-Download or clone this repo by using the link below:
+Download or clone this repo by using the link below and do flutter pub get.
 
 ```
 https://github.com/mrezkys/flutter_presence.git
+cd flutter_presence
+flutter pub get
 ```
 
 **Step 2:**
