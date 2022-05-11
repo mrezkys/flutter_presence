@@ -52,6 +52,9 @@ role is the important field, in this application there are 2 role ( admin and em
 
 Run the flutter app
 
+**Step 8:**
+
+Change the company data at lib/company_data.dart
 
 ## About the Author
 
