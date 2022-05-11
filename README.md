@@ -3,11 +3,28 @@
 ## Introduction
 
 Open Source Flutter Presence App integrated with geolocation (GPS) that can help your company or you as a developer to build a presence app. beauty user interface and have a multi user ( admin and employee ). You can also change the appearance of this application easily or add new features. Using Getx and Firebase.
+
 ## App Screenshot
 
 <img src="https://github.com/mrezkys/flutter_presence/blob/main/demo/banner.jpg" width="auto" height="auto" >
 <img src="https://github.com/mrezkys/flutter_presence/blob/main/demo/shot.jpg" width="auto" height="auto" >
 <img src="https://github.com/mrezkys/flutter_presence/blob/main/demo/details.jpg" width="auto" height="auto" >
+
+## Demo
+
+You can try the demo (only android, because i dont have mac to build the ios) by downloading this apk : <a href="https://github.com/mrezkys/flutter_presence/tree/main/demo/application">Download Demo</a> .
+
+**Admin Login**
+
+Email : mrezkysulihin@gmail.com
+Password : 123456789
+
+**Employee Login** :
+
+Email : mrezkysulihin12@gmail.com
+Password : 123456789
+
+
 
 ## Installation
 
