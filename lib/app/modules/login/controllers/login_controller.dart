@@ -29,7 +29,7 @@ class LoginController extends GetxController {
       isLoading.value = true;
       try {
         final credential = await auth.signInWithEmailAndPassword(
-          email: emailC.text,
+          email: emailC.text.trim(),
           password: passC.text,
         );
 
